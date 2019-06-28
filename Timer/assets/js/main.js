@@ -3,7 +3,7 @@ let sec = 0
 let min = 0
 let hour = 0
 
-let timerEl = document.querySelector('.timer')
+let timerEl = document.querySelector('#timer')
 let startBtn = document.querySelector('#start')
 let stopBtn = document.querySelector('#stop')
 let resetBtn = document.querySelector('#reset')
